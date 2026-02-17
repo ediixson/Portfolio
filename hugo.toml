@@ -1,0 +1,67 @@
+title = "Edison Chai"
+baseURL = "https://example.com/"
+theme = "hugo-resume"
+languageCode = "en-us"
+PygmentsCodeFences = true
+PygmentsCodeFencesGuessSyntax = true
+PygmentsStyle = "monokai"
+enableGitInfo = false
+
+[params]
+address = "Fuerth, DE"
+email = "edisonchai52@proton.me"
+favicon = "/favicon.ico"
+firstName = "Edison"
+lastName = "Chai"
+phone = "015510936864"
+profileImage = "img/Amytester.png"
+showQr = true
+showContact = true
+showBoards  = true
+showCertifications = true
+showSocializations = true
+sections = ["skills","experience","education"]
+vcardfields = [
+    "name",
+    "image",
+    "org",
+    "email",
+    "workemail",
+    "phone",
+    "url",
+    "title"
+]
+
+[params.google]
+
+[params.google.analytics]
+trackerID = "XX-123446-01"
+
+[[params.handles]]
+    name = "LinkedIn"
+    link = "https://www.linkedin.com/in/edison-chai-227356345/"
+
+[[params.handles]]
+    name = "GitHub"
+    link = "https://github.com/c003-6833/"
+
+
+
+[outputs]
+home = ["HTML", "JSON"]
+page = ["HTML", "vcard"]
+
+[taxonomies]
+tag = "tags"
+
+
+[mediaTypes]
+  [mediaTypes."text/vcard"]
+    suffixes = ["vcf"]
+
+[outputFormats]
+  [outputFormats.VCard]
+    mediaType = "text/vcard"
+    baseName = "contact"
+    isPlainText = true
+    notAlternative = true

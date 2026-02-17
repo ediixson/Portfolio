@@ -1,0 +1,30 @@
+
+BEGIN:VCARD
+VERSION:4.0
+
+
+N:Chai;Edison;;;
+FN:Edison Chai
+
+
+TEL;TYPE=WORK,VOICE:015510936864
+
+
+EMAIL;TYPE=INTERNET,PREF:edisonchai52@proton.me
+
+
+EMAIL;TYPE=INTERNET,WORK:
+
+
+PHOTO;TYPE=JPG;VALUE=URI:http://localhost:60592/img/Amytester.png
+
+
+ORG:Current Company LTD
+
+
+TITLE:
+
+
+URL:http://localhost:60592/
+
+END:VCARD
