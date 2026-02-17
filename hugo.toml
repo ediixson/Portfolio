@@ -1,5 +1,5 @@
 title = "Edison Chai"
-baseURL = "https://edixson.github.io/Portfolio/"   
+#baseURL = "https://edixson.github.io/Portfolio/"   
 theme = "hugo-resume"
 languageCode = "en-us"
 PygmentsCodeFences = true
@@ -65,3 +65,6 @@ tag = "tags"
     baseName = "contact"
     isPlainText = true
     notAlternative = true
+
+[build]
+  ignoreLogs = ["warning-goldmark-raw-html"]
