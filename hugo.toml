@@ -1,5 +1,5 @@
 title = "Edison Chai"
-baseURL = "https://edixson.github.io/Portfolio/"
+baseURL = "https://edixson.github.io/Portfolio/"   
 theme = "hugo-resume"
 languageCode = "en-us"
 PygmentsCodeFences = true
@@ -43,7 +43,7 @@ trackerID = "XX-123446-01"
 
 [[params.handles]]
     name = "GitHub"
-    link = "https://github.com/c003-6833/"
+    link = "https://github.com/ediixson/"
 
 
 
