@@ -156,4 +156,9 @@ a:hover, a:focus, a:active {
   color: #1c1715 ;
 }
 
+.bg-primary, header, .site-header, a, a:hover, a:focus, a:active {
+    background-color: #1c1715 !important;
+    color: #ffffff !important;
+}
+
 /* BROWN TEST COMMENT - REMOVE LATER */
