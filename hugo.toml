@@ -1,5 +1,8 @@
 title = "Edison Chai"
-#baseURL = "https://edixson.github.io/Portfolio/"   
+baseURL = "https://ediixson.github.io/Portfolio/"  
+relativeURLs = true
+canonifyURLs = false 
+uglyURLs = true
 theme = "hugo-resume"
 languageCode = "en-us"
 PygmentsCodeFences = true
@@ -37,6 +40,7 @@ vcardfields = [
 [params.google.analytics]
 trackerID = "XX-123446-01"
 
+
 [[params.handles]]
     name = "LinkedIn"
     link = "https://www.linkedin.com/in/edison-chai-227356345/"
@@ -49,7 +53,7 @@ trackerID = "XX-123446-01"
 
 [outputs]
 home = ["HTML", "JSON"]
-page = ["HTML", "vcard"]
+page = ["HTML", ]
 
 [taxonomies]
 tag = "tags"
