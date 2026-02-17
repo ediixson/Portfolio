@@ -1,5 +1,5 @@
 title = "Edison Chai"
-baseURL = "https://example.com/"
+baseURL = "https://edixson.github.io/Portfolio/"
 theme = "hugo-resume"
 languageCode = "en-us"
 PygmentsCodeFences = true
