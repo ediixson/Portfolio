@@ -23,7 +23,7 @@ showContact = true
 showBoards  = true
 showCertifications = true
 showSocializations = true
-sections = ["skills","experience","education"]
+sections = ["skills","experience","education","test blog"]
 vcardfields = [
     "name",
     "image",
