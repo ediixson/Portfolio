@@ -156,3 +156,15 @@ a:hover, a:focus, a:active {
   color: #1c1715 ;
 }
 
+.download-btn {
+  background-color: #1c1715; /* Use your theme's primary color */
+  color: #868e96 !important;
+  border-radius: 5px;
+  margin-top: 10px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.download-btn:hover {
+  background-color: #836953;
+}
