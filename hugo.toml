@@ -1,6 +1,6 @@
 title = "Edison Chai"
 baseURL = "https://ediixson.github.io/Portfolio/"  
-relativeURLs = false  #changed from true
+relativeURLs = true 
 canonifyURLs = false 
 uglyURLs = true
 theme = "hugo-resume"
