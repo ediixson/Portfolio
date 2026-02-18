@@ -1,6 +1,6 @@
 title = "Edison Chai"
 baseURL = "https://ediixson.github.io/Portfolio/"  
-relativeURLs = true
+relativeURLs = false  #changed from true
 canonifyURLs = false 
 uglyURLs = true
 theme = "hugo-resume"
@@ -17,7 +17,7 @@ favicon = "/favicon.ico"
 firstName = "Edison"
 lastName = "Chai"
 phone = "015510936864"
-profileImage = "/img/Amytest.png"
+profileImage = "/img/Amytest.png"   #added a slash
 showQr = true
 showContact = true
 showBoards  = true
