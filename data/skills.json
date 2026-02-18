@@ -1,7 +1,7 @@
 [
   {
       "grouping":"Languages & Tools",
-      "skills":[ "Java","Python","git","bash","javascript","C++","HTML"]
+      "skills":[ "Java","Python","git","bash","javascript | ","C++ | ","HTML"]
   },
   {
       "grouping":"Platform Development & Administration",
@@ -9,7 +9,7 @@
   },
   {
       "grouping":"Operating Systems",
-      "skills":["linux","Windows","Ubuntu"]
+      "skills":["linux","Ubuntu | ","Windows"]
   },
   {
     "grouping":"Systems & Data Management",
