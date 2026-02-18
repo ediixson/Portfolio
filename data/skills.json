@@ -13,7 +13,7 @@
   {
       "grouping":"Data Management",
       "skills":[
-        {"name":"Microsoft SQL Server","icon":"msql_server",},
+        {"name":"Microsoft SQL Server","icon":"msql_server"},
         {"name":"Oracle","icon":"database"},
         "MongoDB",
         {"name":"Apache Spark"}
