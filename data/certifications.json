@@ -1,23 +1,16 @@
 [
 	{
-		"name":"AWS Solutions Architect",
-		"description": "AWS Certified Solutions Architect – Associate",
-		"badge":"https://images.credly.com/size/340x340/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png",
-		"proof":"https://www.credly.com/badges/9c168644-e23c-4605-9d98-91b5db56e6c9"
+		"name":"Cybersecurity TestIO",
+		"description": "Cybersecurity",
+		"badge":"https://s3.eu-central-1.amazonaws.com/uploads.test.io/uploads/badge/image/163/cybersecurity_passed.svg?X-Amz-Expires=7200&X-Amz-Date=20260218T161043Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT7SN3QKZVJIY3M6B%2F20260218%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=761605775fe73c60ed6e3612e9063b5d43a25c18ffdad7a02ea29c9b2e786ace",
+		"proof":"https://ediixson.github.io/Portfolio/static/Cybersecurityp.png"
 
 	},
 	{
-		"name":"ACP-JSD",
-		"description": "Jira Service Desk Administator",
-		"badge":"https://www.certmetrics.com/api/ob/image/atlassian/c/4/",
-		"proof":"https://www.certmetrics.com/atlassian/public/badge.aspx?i=4&t=c&d=2020-05-11&ci=AT00143196"
+		"name":"Exploratory Tester TestIO",
+		"description": "Bug and Report Analysis",
+		"badge":"https://s3.eu-central-1.amazonaws.com/uploads.test.io/uploads/badge/image/11/certified_exploratory_tester.svg?X-Amz-Expires=7200&X-Amz-Date=20260218T162530Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT7SN3QKZVJIY3M6B%2F20260218%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=a25ec4ac1315a901c28c4725833a028398218ba7e37c922f12511cc4aae4c16a",
+		"proof":"https://ediixson.github.io/Portfolio/static/Analysisp.png"
 
-	},
-	{
-		"name":"ACP-JCA",
-		"description": "Jira Cloud Administator",
-		"badge":"https://imgs.search.brave.com/eVhcRmWwqWac-61pbjwHvcoPxx2SrwmvuF3uV8q6Hmc/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTI0/NzEzNzYwNS9kZS9m/b3RvL2luLXRoaXMt/cGhvdG8taWxsdXN0/cmF0aW9uLXRoZS1s/b2dvLW9mLWdvb2ds/ZS1waG90b3Mtc2Vl/bi1kaXNwbGF5ZWQt/b24tYS1tb2JpbGUt/cGhvbmUtc2NyZWVu/LmpwZz9zPTYxMng2/MTImdz0wJms9MjAm/Yz1qdS0xQ0hwRUVy/ZVZJcVFEMG9OZXBz/MjZGZ0xUS285cXhl/aDRJVGd0RnBrPQ",
-		"proof":"https://www.certmetrics.com/atlassian/public/badge.aspx?i=26&t=c&d=2020-08-07&ci=AT00143196"
-		
 	}
 ]
