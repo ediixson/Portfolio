@@ -9,10 +9,10 @@
   },
   {
       "grouping":"Operating Systems",
-      "skills":["Ubunthu","Windows","linux"]
+      "skills":["linux","Windows","Ubuntu"]
   },
   {
     "grouping":"Systems & Data Management",
-      "skills":["Configuration Management (TOML)", "Digital Asset Management", "Static Site Generation", "Deployment Pipelines"]
+      "skills":["Configuration Management (TOML) | ", "Digital Asset Management | ", "Static Site Generation | ", "Deployment Pipelines | "]
   }
 ]
