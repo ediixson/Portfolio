@@ -2,7 +2,7 @@
     {
         "name":"Cybersecurity TestIO",
         "description": "Cybersecurity",
-        "badge":"https://tester.test.io/badges/163/achievements?slug=edison_chai",
+        "badge":"https://s3.eu-central-1.amazonaws.com/uploads.test.io/uploads/badge/image/163/cybersecurity_passed.svg?X-Amz-Expires=7200&X-Amz-Date=20260218T231816Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT7SN3QKZVJIY3M6B%2F20260218%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=9c96381969ac14efb869a68e399e782d11cfebf31e06331f2c19cac1c86158ec", 
         "proof":"https://ediixson.github.io/Portfolio/static/Cybersecurityp.png"
 
     },
