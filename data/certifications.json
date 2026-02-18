@@ -1,17 +1,16 @@
 [
-	{
-		"name":"Cybersecurity TestIO",
-		"description": "Cybersecurity",
-		"badge":"https://s3.eu-central-1.amazonaws.com/uploads.test.io/uploads/badge/image/163/cybersecurity_passed.svg?X-Amz-Expires=7200&X-Amz-Date=20260218T161043Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT7SN3QKZVJIY3M6B%2F20260218%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=761605775fe73c60ed6e3612e9063b5d43a25c18ffdad7a02ea29c9b2e786ace",
-		"proof":"https://ediixson.github.io/Portfolio/static/Cybersecurityp.png"
+    {
+        "name":"Cybersecurity TestIO",
+        "description": "Cybersecurity",
+        "badge":"https://tester.test.io/badges/163/achievements?slug=edison_chai",
+        "proof":"https://ediixson.github.io/Portfolio/static/Cybersecurityp.png"
 
-	},
-	{
-		"name":"Exploratory Tester TestIO",
-		"description": "Bug & Report Analysis",
-		"badge":"https://s3.eu-central-1.amazonaws.com/uploads.test.io/uploads/badge/image/11/certified_exploratory_tester.svg?X-Amz-Expires=7200&X-Amz-Date=20260218T162530Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT7SN3QKZVJIY3M6B%2F20260218%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=a25ec4ac1315a901c28c4725833a028398218ba7e37c922f12511cc4aae4c16a",
-		"proof":"https://ediixson.github.io/Portfolio/static/Analysisp.png"
-         
-	}
-	   
-]    
+    },
+    {
+        "name":"Exploratory Tester TestIO",
+        "description": "Bug & Report Analysis",
+        "badge":"https://tester.test.io/badges/11/achievements?slug=edison_chai",
+        "proof":"https://ediixson.github.io/Portfolio/static/Analysisp.png"
+
+    }
+]
