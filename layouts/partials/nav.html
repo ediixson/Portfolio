@@ -12,7 +12,7 @@
     <ul class="navbar-nav">
       <li class="nav-item">
         <a class="nav-link js-scroll-trigger" href="{{ "#about" | relURL }}">{{ i18n "about" }}</a>
-    </li>
+      </li>
       {{ range .Site.Params.sections }}
       <li class="nav-item">
         <a class="nav-link js-scroll-trigger" href="/#{{.}}">{{ . | i18n }}</a>
@@ -20,7 +20,7 @@
       {{ end }}
       {{ if .Site.Params.showContact}}
           <li class="nav-item">
-               <a class="nav-link" href="/contact">{{ i18n "contact" }}</a>
+              <a class="nav-link" href="/contact">{{ i18n "contact" }}</a>
           </li>
       {{ end }}
     </ul>
