@@ -4,16 +4,16 @@
       "skills":[ "IP Networking","DNS","Firewalls","Load Balancing","Microservices","RESTful APIs","SaaS/PaaS/IaaS"]
   },{
       "grouping":"Languages, Operating Systems & Tools",
-      "skills":[ "Java","Python","git","subversion","linux","bash","php","jquery","javascript"]
+      "skills":[ "Java","Python","git","linux","bash","javascript","C++","HTML"]
   },
   {
       "grouping":"Platform Development & Administration",
-      "skills":[ "Atlassian","Bamboo","Bitbucket","NGINX","MySQL","Wordpress"]
+      "skills":["MySQL","Wordpress"]
   },
   {
       "grouping":"Data Management",
       "skills":[
-        {"name":"Microsoft SQL Server","icon":"msql_server"},
+        {"name":"Microsoft SQL Server","icon":"msql_server",},
         {"name":"Oracle","icon":"database"},
         "MongoDB",
         {"name":"Apache Spark"}
