@@ -1,16 +1,14 @@
 [
     {
-        "name":"Cybersecurity TestIO",
+        "name": "Cybersecurity TestIO",
         "description": "Cybersecurity",
-        "badge":"https://ediixson.github.io/Portfolio/static/cybersecurity_passed.svg", 
-        "proof":"https://ediixson.github.io/Portfolio/static/Cybersecurityp.png"
-
+        "badge": "cybersecurity_passed.svg",
+        "proof": "Cybersecurityp.png"
     },
     {
-        "name":"Exploratory Tester TestIO",
+        "name": "Exploratory Tester TestIO",
         "description": "Bug & Report Analysis",
-        "badge":"https://ediixson.github.io/Portfolio/static/certified_exploratory_tester.svg",
-        "proof":"https://ediixson.github.io/Portfolio/static/Analysisp.png"
-
+        "badge": "certified_exploratory_tester.svg",
+        "proof": "Analysisp.png"
     }
 ]
