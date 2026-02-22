@@ -4,5 +4,12 @@
     "category": "Media & Digitalization",
     "description": "During my P-Seminar, I managed the technical setup for live streaming events. This included video editing, managing OBS transitions, and ensuring high-quality audio output for our viewers, aswell as camera positioning.",
     "timeframe": "2023 - 2024"
-  }
+  },
+  
+  {
+  "title": "Professional Portfolio Development",
+  "category": "Web Development",
+  "description": "Developed and deployed a personal portfolio site using the Hugo framework. Managed the local development environment via PowerShell, configured technical sections for Skills and Education, and successfully migrated the local build to a live GitHub Pages server.",
+  "timeframe": "2026"
+ }
 ]
