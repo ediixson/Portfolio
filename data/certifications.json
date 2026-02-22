@@ -2,14 +2,14 @@
     {
         "name":"Cybersecurity TestIO",
         "description": "Cybersecurity",
-        "badge":"https://s3.eu-central-1.amazonaws.com/uploads.test.io/uploads/badge/image/163/cybersecurity_passed.svg?X-Amz-Expires=7200&X-Amz-Date=20260218T231816Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT7SN3QKZVJIY3M6B%2F20260218%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=9c96381969ac14efb869a68e399e782d11cfebf31e06331f2c19cac1c86158ec", 
+        "badge":"https://s3.eu-central-1.amazonaws.com/uploads.test.io/uploads/badge/image/163/cybersecurity_passed.svg?X-Amz-Expires=7200&X-Amz-Date=20260222T123335Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT7SN3QKZVJIY3M6B%2F20260222%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=06f69b7789ec03230e9261afe23fc0cb8210289fab671b6a6e86a1ffae3928a3", 
         "proof":"https://ediixson.github.io/Portfolio/static/Cybersecurityp.png"
 
     },
     {
         "name":"Exploratory Tester TestIO",
         "description": "Bug & Report Analysis",
-        "badge":"https://s3.eu-central-1.amazonaws.com/uploads.test.io/uploads/badge/image/11/certified_exploratory_tester.svg?X-Amz-Expires=7200&X-Amz-Date=20260218T232000Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT7SN3QKZVJIY3M6B%2F20260218%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=f5b4aca371c69b92c534e571aada09030c1ea57eb79b3146727498955758ca3a",
+        "badge":"https://s3.eu-central-1.amazonaws.com/uploads.test.io/uploads/badge/image/11/certified_exploratory_tester.svg?X-Amz-Expires=7200&X-Amz-Date=20260222T123335Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT7SN3QKZVJIY3M6B%2F20260222%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=10ee33eeb70b7cc8e0e957c7be0800be98071a49591ce01db5705688ba48f77d",
         "proof":"https://ediixson.github.io/Portfolio/static/Analysisp.png"
 
     }
