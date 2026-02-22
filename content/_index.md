@@ -9,5 +9,5 @@ outputs:
 - rss
 - json
 ---
-Apprentice in Digitalization Management.
+Apprentice in Digitalization Management
 ### Explore my Socials

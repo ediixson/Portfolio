@@ -1,7 +1,7 @@
 [
   {
       "grouping":"Languages & Tools",
-      "skills":[ "Java","Python","git","bash","javascript | ","C++ | ","HTML | ","Adobe Premiere | ","Davinci Resolve"]
+      "skills":[ "Java","Python","git","bash | ","javascript"," | C++ | ","HTML | ","Adobe Premiere | ","Davinci Resolve"]
   },
   {
       "grouping":"Platform Development & Administration",
@@ -9,7 +9,7 @@
   },
   {
       "grouping":"Operating Systems",
-      "skills":["linux  | ","Ubuntu | ","Windows"]
+      "skills":["Linux","Ubuntu"," | Windows"]
   },
   {
     "grouping":"Systems & Data Management",
