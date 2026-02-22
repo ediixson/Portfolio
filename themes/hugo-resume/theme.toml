@@ -5,15 +5,15 @@ name = "Resume"
 license = "MIT"
 licenselink = "https://github.com/eddiewebb/hugo-resume/blob/master/LICENSE.md"
 description = "Personal resume with social handles, skills inventory, work history and portfolio. Includes native CMS editor experience with Netlify CMS. Ported from StartBootstrap 'Resume' theme"
-homepage = "https://edwardwebb.com/"
+homepage = "https://edisonchai.com/"
 tags = ["portfolio","resume","responsive", "cms"]
 features = ["social","mobile","projects","responsive","qr-code","cms"]
 min_version = "0.62"
 defaultContentLanguage = "en"
 
 [author]
-  name = "Eddie Webbinaro"
-  homepage = "https://webbinaro.dev"
+  name = "Edison Chai"
+  homepage = "https://edisonchai.dev"
 
 
 # If porting an existing theme
