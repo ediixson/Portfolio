@@ -1,7 +1,7 @@
 [
   {
       "grouping":"Languages & Tools",
-      "skills":[ "Java","Python","git","javascript"," | C++ | ","bash | ","HTML | ","Adobe Premiere | ","Davinci Resolve"]
+      "skills":[ "Java","Python","git","javascript"," | C++ | ","bash | ","HTML | ","Assembly Language (68000) | ","Game Development | ","Adobe Premiere | ","Davinci Resolve"]
   },
   {
       "grouping":"Platform Development & Administration",
@@ -12,7 +12,7 @@
       "skills":["Linux","Ubuntu"," | Windows"]
   },
   {
-    "grouping":"Systems & Data Management",
-      "skills":["Configuration Management (TOML) | ", "Digital Asset Management | ", "Static Site Generation | ", "Deployment Pipelines | "]
+    "grouping":"Systems, Data Management & Concepts",
+      "skills":["Configuration Management (TOML) | ", "Digital Asset Management | ", "Static Site Generation | ", "Deployment Pipelines | ","Game Design & Balancing | ","Memory Management | ","Bit Operations & Assembly Optimization"]
   }
 ]
