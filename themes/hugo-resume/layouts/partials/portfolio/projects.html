@@ -1,20 +1,18 @@
 <section class="resume-section" id="projects">
-  <div class="resume-section-content">
-    <h2 class="mb-5">{{ i18n "projects" | default "Projects" }}</h2>
-    
-    {{ if $.Site.Data.projects }}
-      {{ range $.Site.Data.projects }}
+    <div class="resume-section-content">
+        <h2 class="mb-5">{{ i18n "projects" | default "Projects" }}</h2>
+        
+        {{ range .site.Data.projects }}
         <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
-          <div class="flex-grow-1">
-            <h3 class="mb-0">{{ .title }}</h3>
-            <div class="subheading mb-3">{{ .category }}</div>
-            <p>{{ .description }}</p>
-          </div>
-          <div class="flex-shrink-0">
-            <span class="text-primary">{{ .timeframe }}</span>
-          </div>
+            <div class="flex-grow-1">
+                <h3 class="mb-0">{{ .title }}</h3>
+                <div class="subheading mb-3">{{ .category }}</div>
+                <p>{{ .description }}</p>
+            </div>
+            <div class="flex-shrink-0">
+                <span class="text-primary">{{ .timeframe }}</span>
+            </div>
         </div>
-      {{ end }}
-    {{ end }}
-  </div>
+        {{ end }}
+    </div>
 </section>
