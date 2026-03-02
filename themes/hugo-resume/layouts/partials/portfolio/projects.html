@@ -2,7 +2,7 @@
     <div class="resume-section-content">
         <h2 class="mb-5">{{ i18n "projects" | default "Projects" }}</h2>
         
-        {{ with .Site.Data.projects }}{{ range . }}
+        {{ with $.Site.Data.projects }}{{ range . }}
         <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
             <div class="flex-grow-1">
                 <h3 class="mb-0">{{ .title }}</h3>
