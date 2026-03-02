@@ -1,17 +1,21 @@
 <section class="resume-section" id="projects" style="margin-left: 3rem;">
-    <div class="resume-section-content">
-        <h2 class="mb-5">{{ i18n "projects" | default "Projects" }}</h2>
-        {{ range .Data.projects }}
-        <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
-            <div class="flex-grow-1">
-                <h3 class="mb-0">{{ .title }}</h3>
-                <div class="subheading mb-3">{{ .category }}</div>
-                <p>{{ .description }}</p>
-            </div>
-            <div class="flex-shrink-0">
-                <span class="text-primary">{{ .timeframe }}</span>
-            </div>
-        </div>
+  <div class="resume-section-content">
+    <h2 class="mb-5">{{ i18n "projects" | default "Projects" }}</h2>
+    
+    {{ range .Data.projects }}
+    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+      <div class="flex-grow-1">
+        <h3 class="mb-0">{{ .title }}</h3>
+        <div class="subheading mb-3">{{ .category }}</div>
+        <p>{{ .description }}</p>
+        {{ if .github }}
+          <a href="{{ .github }}" target="_blank" class="text-primary">GitHub</a>
         {{ end }}
+      </div>
+      <div class="flex-shrink-0">
+        <span class="text-primary">{{ .timeframe }}</span>
+      </div>
     </div>
+    {{ end }}
+  </div>
 </section>
