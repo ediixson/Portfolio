@@ -15,8 +15,8 @@
 {
   "title": "Mini RPG - Text-Based Dungeon Game",
   "category": "Game Development & Low-Level Programming",
-  "description": "Developed a complete text-based RPG in 68000 Assembly Language with 3 playable classes (Warrior/Mage/Assassin), each featuring unique skill trees and dynamic AI attack patterns. Implemented procedural random number generation via Linear Congruential Generator, a branching narrative system with multiple endings driven by player choices, and a real-time damage calculation engine incorporating stat scaling and debuff mechanics. The game includes an innovative soul anchor mechanic that triggers mid-fight phase transitions, creating strategic depth and challenging gameplay.",
-  "github": "https://github.com/ediixson/Mini-RPG",
+  "description": "Developed a complete text-based RPG in 68000 Assembly Language with 3 playable classes (Warrior/Mage/Assassin), each featuring unique skill trees and dynamic AI attack patterns. Implemented procedural random number generation via Linear Congruential Generator, a branching narrative system with multiple endings driven by player choices, and a real-time damage calculation engine incorporating stat scaling and debuff mechanics. The game includes an innovative soul anchor mechanic that triggers mid-fight phase transitions, creating strategic depth and challenging gameplay.
+  Game:https://github.com/ediixson/Mini-RPG",
   "timeframe": "2026"
   }
 ]
