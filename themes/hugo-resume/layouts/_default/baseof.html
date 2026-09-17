@@ -45,7 +45,7 @@
     {{ block "main" . }}
       {{ .Content }}
     {{ end }}
-    <section><span style="color: #999999;">Datenschutz <a href="/Portfolio/datenschutz.html"></a> und <a class="pen-owner-link" href="/Portfolio/impressum.html">Impressum</a> </span>
+    <section><span style="color: #999999;"> <a href="/Portfolio/datenschutz.html">Datenschutz</a> und <a href="/impressum.html">Impressum</a> </span>
       {{ with $.GitInfo }}{{ with $.Site.Params.gitCommitPrefix }} | <span style="color: #999999;;">Page content generated from commit: <a href="{{ . }}/{{ $.GitInfo.AbbreviatedHash }}" title="log: {{ $.GitInfo.Subject }}">{{ $.GitInfo.AbbreviatedHash }}</a>{{ end }}{{end}}
     </section>
   Datenschutz>
